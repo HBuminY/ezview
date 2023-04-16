@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@500&display=swap");
+/* SCSS HEX */
+/* SCSS Gradient */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.bg-tile {
+  background-image: url(./p/dark-bg-tile.png);
+  background-size: 20em;
+}
+
+.bg-dogwood {
+  background-color: #dec3be;
+}
+
+.bg-main {
+  background-color: #242f40;
+}
+
+.bg-tea {
+  background-color: #dcf2b0;
+}
+
+.bg-jet {
+  background-color: #363636;
+}
+
+.cursive {
+  font-family: "MuseoModerno", cursive;
+}
+
+.shadow-1 {
+  box-shadow: 0 0.5rem 3rem #242f40 !important;
+}
+
+.hr-5 {
+  height: 5rem;
+}
+
+.hr-20 {
+  height: 20rem;
+}
+
+.hr-30 {
+  height: 30rem;
+}
+
+.hr-40 {
+  height: 40rem;
+}
+
+.linkbtn {
+  text-decoration: none;
+}/*# sourceMappingURL=index.css.map */
