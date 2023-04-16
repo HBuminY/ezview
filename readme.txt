@@ -1,0 +1,1 @@
+https://hbuminy.github.io/ezview/#
